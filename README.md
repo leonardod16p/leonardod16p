@@ -20,11 +20,12 @@ I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lean_4-000000?style=for-the-badge&logo=lean&logoColor=white" alt="Lean 4" />
+  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Assembly-2A3C24?style=for-the-badge&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
 ---
 
 
