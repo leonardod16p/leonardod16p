@@ -26,11 +26,12 @@ I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (
   <img src="https://img.shields.io/badge/Assembly-2A3C24?style=for-the-badge&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
----
 
+---
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardod16p&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardod16p&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+</p>
