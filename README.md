@@ -12,7 +12,7 @@ I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (
 - 🌱 I’m actively learning and using **Lean 4** for formal verification.
 - 💻 My background blends **Math, Physics, and Computer Science**, allowing me to approach problems from multiple analytical angles.
 - 📝 I love writing mathematical proofs and exploring the intersection of logic and computation.
-- 📫 How to reach me: **leonardod16p@gmail.com** ou **[Meu LinkedIn](https://www.linkedin.com/in/leonardo-dias-pertuzzatti/)**
+- 📫 How to reach me: **leonardod16p@gmail.com** ou **[LinkedIn](https://www.linkedin.com/in/leonardo-dias-pertuzzatti/)**
 
 ---
 
