@@ -30,7 +30,6 @@ I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardod16p&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardod16p&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardod16p&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardod16p&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF)
