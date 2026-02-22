@@ -31,9 +31,9 @@ I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Teste Anurag)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats do Anurag" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF" alt="Top Languages do Anurag" />
 </p>
