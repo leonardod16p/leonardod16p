@@ -6,17 +6,17 @@ I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 I’m currently researching **Modern Foundations of Mathematics**.
-- 🌱 I’m actively learning and using **Lean 4** for formal verification.
-- 💻 My background blends **Math, Physics, and Computer Science**, allowing me to approach problems from multiple analytical angles.
-- 📝 I love writing mathematical proofs and exploring the intersection of logic and computation.
-- 📫 How to reach me: **[Email](leonardod16p@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/leonardo-dias-pertuzzatti/)**
+-  I’m currently researching **Modern Foundations of Mathematics**.
+-  I’m actively learning and using **Lean 4** for formal verification.
+-  My background blends **Math, Physics, and Computer Science**, allowing me to approach problems from multiple analytical angles.
+-  I love writing mathematical proofs and exploring the intersection of logic and computation.
+-  How to reach me: **[Email](leonardod16p@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/leonardo-dias-pertuzzatti/)**
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lean_4-000000?style=for-the-badge&logo=lean&logoColor=white" alt="Lean 4" />
