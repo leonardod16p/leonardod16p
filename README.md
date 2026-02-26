@@ -2,7 +2,7 @@
 
 ### Applied Mathematics Student @ UFRJ | Exploring the Modern Foundations of Mathematics
 
-I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (UFRJ), with a solid background in Computer Science and Physics. Currently, my research focuses on the modern foundations of mathematics, and I'm actively working with formal methods and theorem proving.
+I'm an Applied Mathematics student at the Federal University of Rio de Janeiro (UFRJ), with a solid background in Computer Science and passionate about Physics and Logic. Currently, my research focuses on the modern foundations of mathematics, and I'm actively working with formal methods and theorem proving.
 
 ---
 
