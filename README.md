@@ -8,7 +8,7 @@ I view Mathematics and Computer Science as fundamental tools for solving complex
 
 ###  About Me
 
--  I’m currently researching **Modern Foundations of Mathematics**.
+-  I’m currently researching Modern Foundations of Mathematics.
 -  I'm actively learning and experimenting with Lean 4 for formal verification and theorem proving.
 -  I thrive on navigating different levels of abstraction: from low-level systems engineering (Assembly, C) and the strict rigor of formal methods, to translating pure mathematical abstraction into visual and geometric intuition.
 -  How to reach me: **[Email](leonardod16p@gmail.com)** ou **[LinkedIn](https://www.linkedin.com/in/leonardo-dias-pertuzzatti/)**
