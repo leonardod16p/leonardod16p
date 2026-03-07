@@ -1,6 +1,6 @@
 > *"Wir müssen wissen. Wir werden wissen."* — David Hilbert
 > 
-> *"A criatividade é uma filha educada da fantasia."* — Leonardo D. Pertuzzatti
+> *A criatividade é uma filha educada da fantasia.* 
 
 # Hi there, I'm Leonardo Dias Pertuzzatti 👋
 
