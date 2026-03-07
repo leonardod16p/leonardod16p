@@ -1,4 +1,8 @@
-# Hi there, I'm Leonardo Dias Pertuzzatti👋
+> *"Wir müssen wissen. Wir werden wissen."* — David Hilbert
+> 
+> *"A criatividade é uma filha educada da fantasia."* — Leonardo D. Pertuzzatti
+
+# Hi there, I'm Leonardo Dias Pertuzzatti 👋
 
 ### Applied Mathematics Student @ UFRJ | Exploring the Modern Foundations of Mathematics
 
