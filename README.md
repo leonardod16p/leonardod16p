@@ -6,7 +6,7 @@
 
 ### Applied Mathematics Student @ UFRJ | Foundations of Mathematics & Quantitative Finance
 
-I view Mathematics and Computer Science as fundamental tools for solving complex problems. Combining a solid background in CS with academic paths traversing Applied Mathematics (UFRJ) and Physics (UERJ), my work is guided by three core pillars: curiosity, autonomy, and creativity. Currently, I am exploring the modern foundations of mathematics and applying high-performance computing to Quantitative Finance.
+I view Mathematics and Computer Science as fundamental tools for solving complex problems. Combining a solid background in CS with academic paths traversing Applied Mathematics (UFRJ) and Physics (UERJ), my work is guided by three core pillars: curiosity, autonomy, and creativity. Currently, I am exploring the modern foundations of mathematics and applying high-performance computing to Neural Networks.
 
 ---
 
@@ -14,8 +14,7 @@ I view Mathematics and Computer Science as fundamental tools for solving complex
 
 -  I’m currently researching Modern Foundations of Mathematics, focusing on Homotopy Type Theory (HoTT).
 -  I'm actively learning and experimenting with Lean 4 for formal verification and theorem proving.
--  I thrive on navigating different levels of abstraction: from low-level systems engineering (Assembly, C) and the strict rigor of formal methods, to translating pure mathematical abstraction into visual and geometric intuition.
--  Bridging the gap between mathematics and high-performance software engineering to build robust solutions for Quantitative Finance. 
+-  I thrive on navigating different levels of abstraction: from low-level systems engineering (Assembly, C) and the strict rigor of formal methods, to translating pure mathematical abstraction into visual and geometric intuition. 
 -  How to reach me: **[Email](leonardod16p@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/leonardo-dias-pertuzzatti/)**
 
 ---
