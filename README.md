@@ -4,9 +4,9 @@
 
 # Hi there, I'm Leonardo Dias Pertuzzatti 👋
 
-### Applied Mathematics Student @ UFRJ | Foundations of Mathematics & Quantitative Finance
+### Applied Mathematics Student @ UFRJ | Foundations of Mathematics & High-Performance Computing
 
-I view Mathematics and Computer Science as fundamental tools for solving complex problems. Combining a solid background in CS with academic paths traversing Applied Mathematics (UFRJ) and Physics (UERJ), my work is guided by three core pillars: curiosity, autonomy, and creativity. Currently, I am exploring the modern foundations of mathematics and applying high-performance computing to Neural Networks.
+I view Mathematics and Computer Science as fundamental tools for solving complex problems. Combining a solid background in CS with academic paths traversing Applied Mathematics (UFRJ) and Physics (UERJ), my work is guided by three core pillars: curiosity, autonomy, and creativity. Currently, I am exploring the modern foundations of mathematics and applying High-Performance Computing for AI.
 
 ---
 
